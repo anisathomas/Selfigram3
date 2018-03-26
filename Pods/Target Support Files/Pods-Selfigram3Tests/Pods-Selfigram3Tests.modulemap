@@ -1,0 +1,6 @@
+framework module Pods_Selfigram3Tests {
+  umbrella header "Pods-Selfigram3Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
